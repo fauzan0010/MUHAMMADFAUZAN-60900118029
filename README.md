@@ -1,2 +1,2 @@
 # MUHAMMADFAUZAN-60900118029
-Create new repository - Praktikum 2
+Praktikum Kakas Pengembangan Perangkat Lunak
